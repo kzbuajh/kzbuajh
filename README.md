@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kzbuajh
-- 👀 I’m interested in QA Testing
-- 🌱 I’m currently learning Automated Testing in Java
-- 📫 How to reach me uldaybek@gmail.com
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning HTML, CSS and JS
+- 📫 You can reach me uldaybek@gmail.com
 
 <!---
 kzbuajh/kzbuajh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
